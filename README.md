@@ -94,7 +94,7 @@ The dashboard includes:
 
 # 📊 Dashboard Preview
 
-![HR Analytics Dashboard](Images/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ---
 
